@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438672525532",
+    "firebase_url": "https://chaterbe.firebaseio.com",
+    "project_id": "chaterbe",
+    "storage_bucket": "chaterbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438672525532:android:360cdfa7d33c4edd524c19",
+        "android_client_info": {
+          "package_name": "com.application.chaterbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438672525532-7ud89ebrbpbgr7isqhde9qr44vo8ve5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.chaterbe",
+            "certificate_hash": "2a4c163a045b3925db087c443342e7ce3d26c6cb"
+          }
+        },
+        {
+          "client_id": "438672525532-mbj25tobi2qkqmmaeml1t9bs81ajgt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qCalsO4kKO5sR_Jtb8jYywfYn7FyY2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438672525532-mbj25tobi2qkqmmaeml1t9bs81ajgt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
